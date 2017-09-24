@@ -30,7 +30,7 @@ public class Sospechosos {
   return respuesta;     
  }
  
- public String agenteOrinigal () { // estratégia de obtener menor cantidad de años en prisión
+ public String agenteOriginal () { // estratégia de obtener menor cantidad de años en prisión
   String respuesta =""; 
   return respuesta;    
  }
@@ -38,5 +38,4 @@ public class Sospechosos {
  
 }
 
-//prueba
-//prueba2
+
